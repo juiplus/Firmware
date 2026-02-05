@@ -1,0 +1,10 @@
+*.exe
+*.bat
+*.md
+*_gz.h
+.vscode/*
+*.ics
+dist/*
+includes/*
+node_modules/*
+
