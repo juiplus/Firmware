@@ -1,0 +1,5 @@
+{
+  "version": "2.0.3",
+  "firmware": "https://github.com/juiplus/Firmware/releases/download/Release_V2.0.3/WC_v203.bin",
+  "notes": "Bugfixes + Stabilität"
+}
