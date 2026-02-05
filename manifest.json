@@ -1,5 +1,8 @@
 {
   "version": "2.0.3",
-  "firmware": "https://github.com/juiplus/Firmware/releases/download/Release_V2.0.3/WC_v203.bin",
+  "firmware": "https://raw.githubusercontent.com/juiplus/Firmware/master/WC_v203.bin",
+  "firmware_xl": "https://raw.githubusercontent.com/juiplus/Firmware/master/WC_v203_xl.bin",
+  "firmware_mini": "https://raw.githubusercontent.com/juiplus/Firmware/master/WC_v203_mini.bin",
+  "firmware_ambi": "https://raw.githubusercontent.com/juiplus/Firmware/master/WC_v203_ambi.bin",
   "notes": "Bugfixes + Stabilität"
 }
