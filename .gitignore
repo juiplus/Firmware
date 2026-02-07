@@ -2,9 +2,11 @@
 *.bat
 *.md
 *_gz.h
+*.json
 .vscode/*
 *.ics
 dist/*
 includes/*
 node_modules/*
+
 
