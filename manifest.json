@@ -1,7 +1,5 @@
 {
-  "version": "2.1.0",
-  "firmware": "http://juiplus.de/WC.bin",
-  "firmware_xl": "http://juiplus.de/WC_xl.bin",
-  "firmware_mini": "http://juiplus.de/WC_mini.bin",
+  "version": "2.9.9",
+  "version_rb": "2.0.2",
   "notes": "Bugfixes"
 }

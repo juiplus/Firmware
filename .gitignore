@@ -8,5 +8,7 @@
 dist/*
 includes/*
 node_modules/*
+*ambi*
+
 
 
