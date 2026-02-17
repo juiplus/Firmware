@@ -9,6 +9,7 @@ dist/*
 includes/*
 node_modules/*
 *ambi*
+*.txt
 
 
 
